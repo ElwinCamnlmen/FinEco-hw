@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+.env
+*.pyc
+hw02-2/data/raw/
+hw02-2/data/normalized/
+hw02-2/data/private_derived/
+hw02-2/results/

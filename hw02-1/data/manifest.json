@@ -1,0 +1,1965 @@
+{
+  "python": "3.12.14",
+  "akshare": "1.18.97",
+  "pandas": "3.0.6",
+  "entries": [
+    {
+      "file": "600519_raw.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600519",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "af220642fea0478814e670ca5c05c2c524e32789ab903a03fe7a9f50ad7c8806",
+      "retrieved_at": "2026-09-27T10:50:55.095297+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_qfq.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600519",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "57bf1d347b5b3dd28400ab7b4df4fd0a9d970bdfc1e1dfb662299e6d3b4861dd",
+      "retrieved_at": "2026-09-27T10:50:57.975364+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_value.csv",
+      "symbol": "600519",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600519"
+      },
+      "rows": 2120,
+      "sha256": "ea87ae38b56e7c41444e1418dfebab4498036340655f6ef6e7a565531383d0ed",
+      "retrieved_at": "2026-09-27T10:50:58.379706+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_profile.csv",
+      "symbol": "600519",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600519"
+      },
+      "rows": 1,
+      "sha256": "29340f3c39e098f0bf15310f6b883356488eefb7d2b204a280c611fe85312ab4",
+      "retrieved_at": "2026-09-27T10:54:00.417848+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002142_raw.csv",
+      "symbol": "002142",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002142",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1379,
+      "sha256": "05718c70ff7d49299e39579265836cd5ca2776e209c23759935f5c1653a69514",
+      "retrieved_at": "2026-09-27T10:50:55.094157+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002142_qfq.csv",
+      "symbol": "002142",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002142",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1379,
+      "sha256": "217581602724be43f7e50859c877135e38b90d1fa1609694718ca3b15742b425",
+      "retrieved_at": "2026-09-27T10:50:57.976759+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002142_value.csv",
+      "symbol": "002142",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "002142"
+      },
+      "rows": 2120,
+      "sha256": "3d3ee0180e2d6c7c2bd4cfefb02df487a7f9f7c6c4cd1b43bfdb39c887e834bb",
+      "retrieved_at": "2026-09-27T10:50:58.447624+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002142_profile.csv",
+      "symbol": "002142",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "002142"
+      },
+      "rows": 1,
+      "sha256": "3cef0bb35b2a7f60d18d38e9e8874da671e777a48e6edbe57c170aa62c1f59e0",
+      "retrieved_at": "2026-09-27T10:54:00.455695+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_raw.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601009",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "6a803b704439817412d2ae9661d63b82f3a31fdda7636bfec25e0a39d42804a0",
+      "retrieved_at": "2026-09-27T10:50:55.094003+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_qfq.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601009",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "2b2925d187f531d7a65ec0f3f7584ec72161fa8411d3576b6b59d6da4a2ceff1",
+      "retrieved_at": "2026-09-27T10:50:57.977443+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_value.csv",
+      "symbol": "601009",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "601009"
+      },
+      "rows": 2120,
+      "sha256": "2701b14399b2e81caae6e9206dc5974ef91a7a8866a98d8bbe412d35ed8673f7",
+      "retrieved_at": "2026-09-27T10:54:01.296079+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_profile.csv",
+      "symbol": "601009",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "601009"
+      },
+      "rows": 1,
+      "sha256": "e3954d063157bf29b33baedf6ef8cdb96fac1f78daf2b079378febb3d3fdcbca",
+      "retrieved_at": "2026-09-27T10:54:01.833251+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_raw.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000651",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "aeda26c09dbad2b4177c2cd7df79700bea8251309f7ea575fbaca8f4f9e966dd",
+      "retrieved_at": "2026-09-27T10:54:02.923866+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_qfq.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000651",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "d6eba4ca844aa2fb08124911ec62f98edf4d7c75a1ef40fa96aab6d20ac7bf6b",
+      "retrieved_at": "2026-09-27T10:54:05.738420+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_value.csv",
+      "symbol": "000651",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "000651"
+      },
+      "rows": 2120,
+      "sha256": "4a821dea7a29018ff4cdb9942bcdc094fbe9689a4e46b0eb456c469923e2ca5a",
+      "retrieved_at": "2026-09-27T10:54:06.125810+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_profile.csv",
+      "symbol": "000651",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "000651"
+      },
+      "rows": 1,
+      "sha256": "29a3233de5c4d580428754244c7727adb03efe67f5c0a02106b95a720c790fcf",
+      "retrieved_at": "2026-09-27T10:54:06.366764+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_raw.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000858",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "f44cb83f568af71b211e1ff0faac6a1ab256a0b506ee61b3e938d8d2b1a16347",
+      "retrieved_at": "2026-09-27T10:54:02.923890+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_qfq.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000858",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "6c68b129ecba207ec4a6134e2f3057912d2d5864cc402c3c98e10ca7eba1a55e",
+      "retrieved_at": "2026-09-27T10:54:05.739828+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_value.csv",
+      "symbol": "000858",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "000858"
+      },
+      "rows": 2120,
+      "sha256": "ed5a725a9af1f9f44062d9ae43842d413268a486db1c8b6b136c660e9c43f7a1",
+      "retrieved_at": "2026-09-27T10:54:06.303412+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_profile.csv",
+      "symbol": "000858",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "000858"
+      },
+      "rows": 1,
+      "sha256": "6e56a1a53673a26ec66841bbef6a2f45e32addeb1abf65cb6d459750029f0971",
+      "retrieved_at": "2026-09-27T10:54:06.559843+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_raw.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002032",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "dd983d7a61607a7fa0c4b06ed3598c1e3cee765ecd627734f378e7cf771732dc",
+      "retrieved_at": "2026-09-27T10:54:04.394748+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_qfq.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002032",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "85d9b0e402fa5f547e039b07a5a2cd2cbd81e3ddf3fdb7b449998f1527000bdc",
+      "retrieved_at": "2026-09-27T10:54:06.561225+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_value.csv",
+      "symbol": "002032",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "002032"
+      },
+      "rows": 2120,
+      "sha256": "b8969d3c9ed43ca7930b68a9549b9717f6bed4d051d60ff05bc08dd3f9a15b12",
+      "retrieved_at": "2026-09-27T10:54:07.611263+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_profile.csv",
+      "symbol": "002032",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "002032"
+      },
+      "rows": 1,
+      "sha256": "531da482300a73e9384180f43ea4f6fc77ac8163fe389af6446e04851f63cb74",
+      "retrieved_at": "2026-09-27T10:54:07.844520+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600900_raw.csv",
+      "symbol": "600900",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600900",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1374,
+      "sha256": "f7f22bb6cfc7c7df7052c15ba93d37d081f1a6f64f50c5f871bc204a8ad7865d",
+      "retrieved_at": "2026-09-27T10:54:08.557072+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600900_qfq.csv",
+      "symbol": "600900",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600900",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1374,
+      "sha256": "8107c72225f860fa51c73dd46d157c1b9189536151a04e6efee58468ff39843d",
+      "retrieved_at": "2026-09-27T10:54:10.936725+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600900_value.csv",
+      "symbol": "600900",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600900"
+      },
+      "rows": 2120,
+      "sha256": "23c0ea7d9ede38ad51f77af0acbf5832218c2a55318634c7a0b546f20a844129",
+      "retrieved_at": "2026-09-27T10:54:11.248561+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600900_profile.csv",
+      "symbol": "600900",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600900"
+      },
+      "rows": 1,
+      "sha256": "459caffc9aafd72c1c45f4a14e7f95c25c997fcf787607ea75ff677bf3f76b38",
+      "retrieved_at": "2026-09-27T10:54:11.541308+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_raw.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600025",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "eeef8d2259f8119cc948e12577d372c4c4481f1bc719bdb5a462140027bc110f",
+      "retrieved_at": "2026-09-27T10:54:08.906687+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_qfq.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600025",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "2e8a45629036d7655354288b2fcd36f62a85cfe9efa80c8524d0ea1d095d7d2d",
+      "retrieved_at": "2026-09-27T10:54:11.194241+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_value.csv",
+      "symbol": "600025",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600025"
+      },
+      "rows": 2120,
+      "sha256": "9ff2d995cf561a2451f48537c66b233f59e22387cf46fdb781627984c0a85c0b",
+      "retrieved_at": "2026-09-27T10:54:11.805042+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_profile.csv",
+      "symbol": "600025",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600025"
+      },
+      "rows": 1,
+      "sha256": "bf19d1df91e2ab430e5388f61c3fa005b885b731a646b258039e28420f876453",
+      "retrieved_at": "2026-09-27T10:54:12.052231+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_raw.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600276",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "5f7142d290cc5620344e271e6b0c820c1caa540fb4e1c5de8c8d70790de6cccb",
+      "retrieved_at": "2026-09-27T10:54:10.612093+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_qfq.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600276",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "284ba8357b6926355ae3a20f8c3b8c5cab2ef3c7254438b843b9b4656212c637",
+      "retrieved_at": "2026-09-27T10:54:12.589764+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_value.csv",
+      "symbol": "600276",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600276"
+      },
+      "rows": 2120,
+      "sha256": "537d305a6fdcf829bba2c2447b693ddbd6603bcb18b590f55d20e49a032864a2",
+      "retrieved_at": "2026-09-27T10:54:13.003898+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_profile.csv",
+      "symbol": "600276",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600276"
+      },
+      "rows": 1,
+      "sha256": "f9503eacb91583c14491aca73ac9843384eab14b405e381ceb776ea8b36c0273",
+      "retrieved_at": "2026-09-27T10:54:13.374783+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_raw.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600436",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "84a577c8042de182e61aac8037f3faf910645636e72568a839a856769c7a03b9",
+      "retrieved_at": "2026-09-27T10:54:13.391167+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_qfq.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600436",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "4cdb79e15c32daeb24702c98cb594615fa84465ee0fa9b00c4a5bce146f8aef8",
+      "retrieved_at": "2026-09-27T10:54:14.850720+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_value.csv",
+      "symbol": "600436",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600436"
+      },
+      "rows": 2120,
+      "sha256": "5f367aad40695ad54e2cb300349cad21c1efa13d61b0e44e9427c15b1558707f",
+      "retrieved_at": "2026-09-27T10:54:15.221782+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_profile.csv",
+      "symbol": "600436",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600436"
+      },
+      "rows": 1,
+      "sha256": "365c30c73c24e88f7b38d401e45a280d5774ce01974eedf8cd00937628d12ed7",
+      "retrieved_at": "2026-09-27T10:54:15.460784+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "calendar_sh000001.csv",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh000001",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": ""
+      },
+      "rows": 1385,
+      "sha256": "76f34b9a11bb97b999d8fcc45fc1fb361854ad69e0d68965359441ccfb96bf6a",
+      "retrieved_at": "2026-09-27T10:54:17.165223+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_raw.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601009",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "6a803b704439817412d2ae9661d63b82f3a31fdda7636bfec25e0a39d42804a0",
+      "retrieved_at": "2026-09-27T10:50:55.094003+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_qfq.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601009",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "2b2925d187f531d7a65ec0f3f7584ec72161fa8411d3576b6b59d6da4a2ceff1",
+      "retrieved_at": "2026-09-27T10:50:57.977443+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_value.csv",
+      "symbol": "601009",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "601009"
+      },
+      "rows": 2120,
+      "sha256": "2701b14399b2e81caae6e9206dc5974ef91a7a8866a98d8bbe412d35ed8673f7",
+      "retrieved_at": "2026-09-27T10:54:01.295361+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_profile.csv",
+      "symbol": "601009",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "601009"
+      },
+      "rows": 1,
+      "sha256": "e3954d063157bf29b33baedf6ef8cdb96fac1f78daf2b079378febb3d3fdcbca",
+      "retrieved_at": "2026-09-27T10:54:01.831822+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_raw.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600519",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "af220642fea0478814e670ca5c05c2c524e32789ab903a03fe7a9f50ad7c8806",
+      "retrieved_at": "2026-09-27T10:50:55.095297+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_qfq.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600519",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "57bf1d347b5b3dd28400ab7b4df4fd0a9d970bdfc1e1dfb662299e6d3b4861dd",
+      "retrieved_at": "2026-09-27T10:50:57.975364+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_value.csv",
+      "symbol": "600519",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600519"
+      },
+      "rows": 2120,
+      "sha256": "ea87ae38b56e7c41444e1418dfebab4498036340655f6ef6e7a565531383d0ed",
+      "retrieved_at": "2026-09-27T10:50:58.379706+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_profile.csv",
+      "symbol": "600519",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600519"
+      },
+      "rows": 1,
+      "sha256": "29340f3c39e098f0bf15310f6b883356488eefb7d2b204a280c611fe85312ab4",
+      "retrieved_at": "2026-09-27T10:54:00.417740+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_raw.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000858",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "f44cb83f568af71b211e1ff0faac6a1ab256a0b506ee61b3e938d8d2b1a16347",
+      "retrieved_at": "2026-09-27T10:54:02.887489+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_qfq.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000858",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "6c68b129ecba207ec4a6134e2f3057912d2d5864cc402c3c98e10ca7eba1a55e",
+      "retrieved_at": "2026-09-27T10:54:05.739597+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_value.csv",
+      "symbol": "000858",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "000858"
+      },
+      "rows": 2120,
+      "sha256": "ed5a725a9af1f9f44062d9ae43842d413268a486db1c8b6b136c660e9c43f7a1",
+      "retrieved_at": "2026-09-27T10:54:06.303062+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_profile.csv",
+      "symbol": "000858",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "000858"
+      },
+      "rows": 1,
+      "sha256": "6e56a1a53673a26ec66841bbef6a2f45e32addeb1abf65cb6d459750029f0971",
+      "retrieved_at": "2026-09-27T10:54:06.559355+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_raw.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000651",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "aeda26c09dbad2b4177c2cd7df79700bea8251309f7ea575fbaca8f4f9e966dd",
+      "retrieved_at": "2026-09-27T10:54:02.887621+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_qfq.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000651",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "d6eba4ca844aa2fb08124911ec62f98edf4d7c75a1ef40fa96aab6d20ac7bf6b",
+      "retrieved_at": "2026-09-27T10:54:05.737886+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_value.csv",
+      "symbol": "000651",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "000651"
+      },
+      "rows": 2120,
+      "sha256": "4a821dea7a29018ff4cdb9942bcdc094fbe9689a4e46b0eb456c469923e2ca5a",
+      "retrieved_at": "2026-09-27T10:54:06.125288+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_profile.csv",
+      "symbol": "000651",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "000651"
+      },
+      "rows": 1,
+      "sha256": "29a3233de5c4d580428754244c7727adb03efe67f5c0a02106b95a720c790fcf",
+      "retrieved_at": "2026-09-27T10:54:06.366700+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_raw.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002032",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "dd983d7a61607a7fa0c4b06ed3598c1e3cee765ecd627734f378e7cf771732dc",
+      "retrieved_at": "2026-09-27T10:54:04.394292+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_qfq.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002032",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "85d9b0e402fa5f547e039b07a5a2cd2cbd81e3ddf3fdb7b449998f1527000bdc",
+      "retrieved_at": "2026-09-27T10:54:06.561091+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_value.csv",
+      "symbol": "002032",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "002032"
+      },
+      "rows": 2120,
+      "sha256": "b8969d3c9ed43ca7930b68a9549b9717f6bed4d051d60ff05bc08dd3f9a15b12",
+      "retrieved_at": "2026-09-27T10:54:07.610842+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_profile.csv",
+      "symbol": "002032",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "002032"
+      },
+      "rows": 1,
+      "sha256": "531da482300a73e9384180f43ea4f6fc77ac8163fe389af6446e04851f63cb74",
+      "retrieved_at": "2026-09-27T10:54:07.844457+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_raw.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600025",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "eeef8d2259f8119cc948e12577d372c4c4481f1bc719bdb5a462140027bc110f",
+      "retrieved_at": "2026-09-27T10:54:08.906522+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_qfq.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600025",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "2e8a45629036d7655354288b2fcd36f62a85cfe9efa80c8524d0ea1d095d7d2d",
+      "retrieved_at": "2026-09-27T10:54:11.194072+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_value.csv",
+      "symbol": "600025",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600025"
+      },
+      "rows": 2120,
+      "sha256": "9ff2d995cf561a2451f48537c66b233f59e22387cf46fdb781627984c0a85c0b",
+      "retrieved_at": "2026-09-27T10:54:11.804650+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_profile.csv",
+      "symbol": "600025",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600025"
+      },
+      "rows": 1,
+      "sha256": "bf19d1df91e2ab430e5388f61c3fa005b885b731a646b258039e28420f876453",
+      "retrieved_at": "2026-09-27T10:54:12.051780+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_raw.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600276",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "5f7142d290cc5620344e271e6b0c820c1caa540fb4e1c5de8c8d70790de6cccb",
+      "retrieved_at": "2026-09-27T10:54:10.611688+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_qfq.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600276",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "284ba8357b6926355ae3a20f8c3b8c5cab2ef3c7254438b843b9b4656212c637",
+      "retrieved_at": "2026-09-27T10:54:12.589400+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_value.csv",
+      "symbol": "600276",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600276"
+      },
+      "rows": 2120,
+      "sha256": "537d305a6fdcf829bba2c2447b693ddbd6603bcb18b590f55d20e49a032864a2",
+      "retrieved_at": "2026-09-27T10:54:13.003548+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_profile.csv",
+      "symbol": "600276",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600276"
+      },
+      "rows": 1,
+      "sha256": "f9503eacb91583c14491aca73ac9843384eab14b405e381ceb776ea8b36c0273",
+      "retrieved_at": "2026-09-27T10:54:13.346895+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_raw.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600436",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "84a577c8042de182e61aac8037f3faf910645636e72568a839a856769c7a03b9",
+      "retrieved_at": "2026-09-27T10:54:13.390953+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_qfq.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600436",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "4cdb79e15c32daeb24702c98cb594615fa84465ee0fa9b00c4a5bce146f8aef8",
+      "retrieved_at": "2026-09-27T10:54:14.850502+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_value.csv",
+      "symbol": "600436",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600436"
+      },
+      "rows": 2120,
+      "sha256": "5f367aad40695ad54e2cb300349cad21c1efa13d61b0e44e9427c15b1558707f",
+      "retrieved_at": "2026-09-27T10:54:15.221039+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_profile.csv",
+      "symbol": "600436",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600436"
+      },
+      "rows": 1,
+      "sha256": "365c30c73c24e88f7b38d401e45a280d5774ce01974eedf8cd00937628d12ed7",
+      "retrieved_at": "2026-09-27T10:54:15.460606+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_raw.csv",
+      "symbol": "601166",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601166",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "02cea197c4a1ccf226edbc7fce077a178c961380f0d313c4d7351f271f63c6af",
+      "retrieved_at": "2026-09-27T10:55:33.508988+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_qfq.csv",
+      "symbol": "601166",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601166",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "c46fdbc904a2584aeab807d0ab1df2925e19278fb0594eab7424de4773465c95",
+      "retrieved_at": "2026-09-27T10:55:35.571087+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_value.csv",
+      "symbol": "601166",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "601166"
+      },
+      "rows": 2120,
+      "sha256": "f008dacd40c79809e16ed926a0b43a02b05235c81d9f0184b89e92e1951ad2f5",
+      "retrieved_at": "2026-09-27T10:55:35.958674+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_profile.csv",
+      "symbol": "601166",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "601166"
+      },
+      "rows": 1,
+      "sha256": "9068bc4a51898ff564ae0e25c596bc61fc3c219915993ef6d7814a21beb15351",
+      "retrieved_at": "2026-09-27T10:55:36.206802+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_raw.csv",
+      "symbol": "600886",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600886",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "91aae0a3c61831249f30dad9874b1e125a6005955424c863cdb536eb5122046f",
+      "retrieved_at": "2026-09-27T10:55:33.509002+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_qfq.csv",
+      "symbol": "600886",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600886",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "61111f8f86dcbcf4a6accd5e751ef28ec37b6d985911ba932b784ab2d839f76a",
+      "retrieved_at": "2026-09-27T10:55:35.570744+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_value.csv",
+      "symbol": "600886",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600886"
+      },
+      "rows": 2120,
+      "sha256": "525892dae2f3d508321635f7e00d4bdfdaefed45d972bbdc24def85cfb52670c",
+      "retrieved_at": "2026-09-27T10:55:35.960093+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_profile.csv",
+      "symbol": "600886",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600886"
+      },
+      "rows": 1,
+      "sha256": "43a7def07818f753371243d4479495cb408a57604bf092633cea9c403412a1e9",
+      "retrieved_at": "2026-09-27T10:55:36.313719+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_raw.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600519",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "af220642fea0478814e670ca5c05c2c524e32789ab903a03fe7a9f50ad7c8806",
+      "retrieved_at": "2026-09-27T10:50:55.095297+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_qfq.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600519",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "57bf1d347b5b3dd28400ab7b4df4fd0a9d970bdfc1e1dfb662299e6d3b4861dd",
+      "retrieved_at": "2026-09-27T10:50:57.975364+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_hfq_factor.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600519",
+        "adjust": "hfq-factor"
+      },
+      "rows": 33,
+      "sha256": "6ebfa0c339feb49e8bb054340ac3581becfbadb80717d86b6f08957481963536",
+      "retrieved_at": "2026-09-27T11:04:12.363249+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_qfq_factor.csv",
+      "symbol": "600519",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600519",
+        "adjust": "qfq-factor"
+      },
+      "rows": 33,
+      "sha256": "7a9d0e93339051ab9a3eeeb1357a7b7a2f85a4865417b262b7d60717a2704dae",
+      "retrieved_at": "2026-09-27T11:04:12.513194+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_value.csv",
+      "symbol": "600519",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600519"
+      },
+      "rows": 2120,
+      "sha256": "ea87ae38b56e7c41444e1418dfebab4498036340655f6ef6e7a565531383d0ed",
+      "retrieved_at": "2026-09-27T10:50:58.379706+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600519_profile.csv",
+      "symbol": "600519",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600519"
+      },
+      "rows": 1,
+      "sha256": "29340f3c39e098f0bf15310f6b883356488eefb7d2b204a280c611fe85312ab4",
+      "retrieved_at": "2026-09-27T10:54:00.417740+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_raw.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601009",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "6a803b704439817412d2ae9661d63b82f3a31fdda7636bfec25e0a39d42804a0",
+      "retrieved_at": "2026-09-27T10:50:55.094003+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_qfq.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601009",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "2b2925d187f531d7a65ec0f3f7584ec72161fa8411d3576b6b59d6da4a2ceff1",
+      "retrieved_at": "2026-09-27T10:50:57.977443+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_hfq_factor.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh601009",
+        "adjust": "hfq-factor"
+      },
+      "rows": 24,
+      "sha256": "ca04aa83499eb0a3163ab1226e90028ba3df8ae1f27ccfb5f8ab85f94aaa418f",
+      "retrieved_at": "2026-09-27T11:04:12.345451+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_qfq_factor.csv",
+      "symbol": "601009",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh601009",
+        "adjust": "qfq-factor"
+      },
+      "rows": 24,
+      "sha256": "a725a3d75df19f2ecf6b1680e05a91e342de8b60117310bf4cb4ed0d31e3631b",
+      "retrieved_at": "2026-09-27T11:04:12.513154+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_value.csv",
+      "symbol": "601009",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "601009"
+      },
+      "rows": 2120,
+      "sha256": "2701b14399b2e81caae6e9206dc5974ef91a7a8866a98d8bbe412d35ed8673f7",
+      "retrieved_at": "2026-09-27T10:54:01.295361+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601009_profile.csv",
+      "symbol": "601009",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "601009"
+      },
+      "rows": 1,
+      "sha256": "e3954d063157bf29b33baedf6ef8cdb96fac1f78daf2b079378febb3d3fdcbca",
+      "retrieved_at": "2026-09-27T10:54:01.831822+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_raw.csv",
+      "symbol": "601166",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601166",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "02cea197c4a1ccf226edbc7fce077a178c961380f0d313c4d7351f271f63c6af",
+      "retrieved_at": "2026-09-27T10:55:33.508685+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_qfq.csv",
+      "symbol": "601166",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh601166",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "c46fdbc904a2584aeab807d0ab1df2925e19278fb0594eab7424de4773465c95",
+      "retrieved_at": "2026-09-27T10:55:35.570701+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_hfq_factor.csv",
+      "symbol": "601166",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh601166",
+        "adjust": "hfq-factor"
+      },
+      "rows": 24,
+      "sha256": "403b4a665184cd15bb6f5de816f829c774a7e464ea64901d4ff4f1e8a1fbdf1c",
+      "retrieved_at": "2026-09-27T11:04:12.405365+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_qfq_factor.csv",
+      "symbol": "601166",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh601166",
+        "adjust": "qfq-factor"
+      },
+      "rows": 24,
+      "sha256": "b9a80a1aa45fbb8366daa7ca82eab8d5e47715727486387853dcb4b27af75866",
+      "retrieved_at": "2026-09-27T11:04:12.559889+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_value.csv",
+      "symbol": "601166",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "601166"
+      },
+      "rows": 2120,
+      "sha256": "f008dacd40c79809e16ed926a0b43a02b05235c81d9f0184b89e92e1951ad2f5",
+      "retrieved_at": "2026-09-27T10:55:35.957987+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "601166_profile.csv",
+      "symbol": "601166",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "601166"
+      },
+      "rows": 1,
+      "sha256": "9068bc4a51898ff564ae0e25c596bc61fc3c219915993ef6d7814a21beb15351",
+      "retrieved_at": "2026-09-27T10:55:36.206374+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_raw.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000651",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "aeda26c09dbad2b4177c2cd7df79700bea8251309f7ea575fbaca8f4f9e966dd",
+      "retrieved_at": "2026-09-27T10:54:02.887621+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_qfq.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000651",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "d6eba4ca844aa2fb08124911ec62f98edf4d7c75a1ef40fa96aab6d20ac7bf6b",
+      "retrieved_at": "2026-09-27T10:54:05.737886+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_hfq_factor.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sz000651",
+        "adjust": "hfq-factor"
+      },
+      "rows": 40,
+      "sha256": "be021ae8b41674ad744b117cca361693bde0542366ff6c964ecad3bd90cd2260",
+      "retrieved_at": "2026-09-27T11:04:12.685911+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_qfq_factor.csv",
+      "symbol": "000651",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sz000651",
+        "adjust": "qfq-factor"
+      },
+      "rows": 40,
+      "sha256": "6768337876b96de6a7d8eb0302f9bf2ec27763600468a9d15d2d4b4cc7a47a4f",
+      "retrieved_at": "2026-09-27T11:04:12.812178+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_value.csv",
+      "symbol": "000651",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "000651"
+      },
+      "rows": 2120,
+      "sha256": "4a821dea7a29018ff4cdb9942bcdc094fbe9689a4e46b0eb456c469923e2ca5a",
+      "retrieved_at": "2026-09-27T10:54:06.125288+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000651_profile.csv",
+      "symbol": "000651",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "000651"
+      },
+      "rows": 1,
+      "sha256": "29a3233de5c4d580428754244c7727adb03efe67f5c0a02106b95a720c790fcf",
+      "retrieved_at": "2026-09-27T10:54:06.366700+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_raw.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000858",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "f44cb83f568af71b211e1ff0faac6a1ab256a0b506ee61b3e938d8d2b1a16347",
+      "retrieved_at": "2026-09-27T10:54:02.887489+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_qfq.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz000858",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "6c68b129ecba207ec4a6134e2f3057912d2d5864cc402c3c98e10ca7eba1a55e",
+      "retrieved_at": "2026-09-27T10:54:05.739597+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_hfq_factor.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sz000858",
+        "adjust": "hfq-factor"
+      },
+      "rows": 32,
+      "sha256": "5d44848d42071d38d43b65d6794265ea416fab7298d6cd942d54eb2410cbde42",
+      "retrieved_at": "2026-09-27T11:04:12.685548+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_qfq_factor.csv",
+      "symbol": "000858",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sz000858",
+        "adjust": "qfq-factor"
+      },
+      "rows": 32,
+      "sha256": "40a7a965f673e63a152c61e655873c200e7ed700f39372351ea0f0bc8674e440",
+      "retrieved_at": "2026-09-27T11:04:12.836179+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_value.csv",
+      "symbol": "000858",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "000858"
+      },
+      "rows": 2120,
+      "sha256": "ed5a725a9af1f9f44062d9ae43842d413268a486db1c8b6b136c660e9c43f7a1",
+      "retrieved_at": "2026-09-27T10:54:06.303062+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "000858_profile.csv",
+      "symbol": "000858",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "000858"
+      },
+      "rows": 1,
+      "sha256": "6e56a1a53673a26ec66841bbef6a2f45e32addeb1abf65cb6d459750029f0971",
+      "retrieved_at": "2026-09-27T10:54:06.559355+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_raw.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002032",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "dd983d7a61607a7fa0c4b06ed3598c1e3cee765ecd627734f378e7cf771732dc",
+      "retrieved_at": "2026-09-27T10:54:04.394292+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_qfq.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sz002032",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "85d9b0e402fa5f547e039b07a5a2cd2cbd81e3ddf3fdb7b449998f1527000bdc",
+      "retrieved_at": "2026-09-27T10:54:06.561091+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_hfq_factor.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sz002032",
+        "adjust": "hfq-factor"
+      },
+      "rows": 28,
+      "sha256": "eb4cb9c26604860878fd8664c6fcfd9f48211819996ad6f89a4dd68e6f54e7aa",
+      "retrieved_at": "2026-09-27T11:04:12.724907+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_qfq_factor.csv",
+      "symbol": "002032",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sz002032",
+        "adjust": "qfq-factor"
+      },
+      "rows": 28,
+      "sha256": "db41c69bb7f0f9a741faf931f9376391243dc8a1c1a86e70ba300e091892b537",
+      "retrieved_at": "2026-09-27T11:04:12.914707+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_value.csv",
+      "symbol": "002032",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "002032"
+      },
+      "rows": 2120,
+      "sha256": "b8969d3c9ed43ca7930b68a9549b9717f6bed4d051d60ff05bc08dd3f9a15b12",
+      "retrieved_at": "2026-09-27T10:54:07.610842+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "002032_profile.csv",
+      "symbol": "002032",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "002032"
+      },
+      "rows": 1,
+      "sha256": "531da482300a73e9384180f43ea4f6fc77ac8163fe389af6446e04851f63cb74",
+      "retrieved_at": "2026-09-27T10:54:07.844457+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_raw.csv",
+      "symbol": "600886",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600886",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "91aae0a3c61831249f30dad9874b1e125a6005955424c863cdb536eb5122046f",
+      "retrieved_at": "2026-09-27T10:55:33.508793+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_qfq.csv",
+      "symbol": "600886",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600886",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "61111f8f86dcbcf4a6accd5e751ef28ec37b6d985911ba932b784ab2d839f76a",
+      "retrieved_at": "2026-09-27T10:55:35.570518+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_hfq_factor.csv",
+      "symbol": "600886",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600886",
+        "adjust": "hfq-factor"
+      },
+      "rows": 32,
+      "sha256": "b5d93fd9a38f4acccf8c41a7c50c913b7d118a6a60503359b86bd9f7d3cbf727",
+      "retrieved_at": "2026-09-27T11:04:12.960246+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_qfq_factor.csv",
+      "symbol": "600886",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600886",
+        "adjust": "qfq-factor"
+      },
+      "rows": 32,
+      "sha256": "c2f4359968901c1a1745c756627aeebe30cf068543c10cfba7f48ddebd026740",
+      "retrieved_at": "2026-09-27T11:04:13.126537+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_value.csv",
+      "symbol": "600886",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600886"
+      },
+      "rows": 2120,
+      "sha256": "525892dae2f3d508321635f7e00d4bdfdaefed45d972bbdc24def85cfb52670c",
+      "retrieved_at": "2026-09-27T10:55:35.959623+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600886_profile.csv",
+      "symbol": "600886",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600886"
+      },
+      "rows": 1,
+      "sha256": "43a7def07818f753371243d4479495cb408a57604bf092633cea9c403412a1e9",
+      "retrieved_at": "2026-09-27T10:55:36.313510+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_raw.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600025",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "eeef8d2259f8119cc948e12577d372c4c4481f1bc719bdb5a462140027bc110f",
+      "retrieved_at": "2026-09-27T10:54:08.906522+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_qfq.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600025",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "2e8a45629036d7655354288b2fcd36f62a85cfe9efa80c8524d0ea1d095d7d2d",
+      "retrieved_at": "2026-09-27T10:54:11.194072+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_hfq_factor.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600025",
+        "adjust": "hfq-factor"
+      },
+      "rows": 11,
+      "sha256": "d631e674e254f69b0cd7e5fda8c8d98d28b0a4385c11d04933144d394447768d",
+      "retrieved_at": "2026-09-27T11:04:13.172903+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_qfq_factor.csv",
+      "symbol": "600025",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600025",
+        "adjust": "qfq-factor"
+      },
+      "rows": 11,
+      "sha256": "a2c57f74f67c21ed445f0d37961f245697918a1f70c90ed4087450247ed5f3ac",
+      "retrieved_at": "2026-09-27T11:04:13.247180+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_value.csv",
+      "symbol": "600025",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600025"
+      },
+      "rows": 2120,
+      "sha256": "9ff2d995cf561a2451f48537c66b233f59e22387cf46fdb781627984c0a85c0b",
+      "retrieved_at": "2026-09-27T10:54:11.804650+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600025_profile.csv",
+      "symbol": "600025",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600025"
+      },
+      "rows": 1,
+      "sha256": "bf19d1df91e2ab430e5388f61c3fa005b885b731a646b258039e28420f876453",
+      "retrieved_at": "2026-09-27T10:54:12.051780+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_raw.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600276",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "5f7142d290cc5620344e271e6b0c820c1caa540fb4e1c5de8c8d70790de6cccb",
+      "retrieved_at": "2026-09-27T10:54:10.611688+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_qfq.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600276",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "284ba8357b6926355ae3a20f8c3b8c5cab2ef3c7254438b843b9b4656212c637",
+      "retrieved_at": "2026-09-27T10:54:12.589400+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_hfq_factor.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600276",
+        "adjust": "hfq-factor"
+      },
+      "rows": 30,
+      "sha256": "abccb8221bd4fa5251eba74a51014abe62eaa22e63cbac779e467431f129a1ef",
+      "retrieved_at": "2026-09-27T11:04:13.157188+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_qfq_factor.csv",
+      "symbol": "600276",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600276",
+        "adjust": "qfq-factor"
+      },
+      "rows": 30,
+      "sha256": "72033081e734ac6cd3ce954432d68b8f345073e3722cdd75cd838d2fd99e59f6",
+      "retrieved_at": "2026-09-27T11:04:13.311499+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_value.csv",
+      "symbol": "600276",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600276"
+      },
+      "rows": 2120,
+      "sha256": "537d305a6fdcf829bba2c2447b693ddbd6603bcb18b590f55d20e49a032864a2",
+      "retrieved_at": "2026-09-27T10:54:13.003548+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600276_profile.csv",
+      "symbol": "600276",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600276"
+      },
+      "rows": 1,
+      "sha256": "f9503eacb91583c14491aca73ac9843384eab14b405e381ceb776ea8b36c0273",
+      "retrieved_at": "2026-09-27T10:54:13.346895+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_raw.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600436",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "84a577c8042de182e61aac8037f3faf910645636e72568a839a856769c7a03b9",
+      "retrieved_at": "2026-09-27T10:54:13.390953+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_qfq.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_hist_tx",
+      "parameters": {
+        "symbol": "sh600436",
+        "start_date": "20201231",
+        "end_date": "20260916",
+        "adjust": "qfq",
+        "timeout": 25
+      },
+      "rows": 1385,
+      "sha256": "4cdb79e15c32daeb24702c98cb594615fa84465ee0fa9b00c4a5bce146f8aef8",
+      "retrieved_at": "2026-09-27T10:54:14.850502+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_hfq_factor.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600436",
+        "adjust": "hfq-factor"
+      },
+      "rows": 29,
+      "sha256": "fc14b31628702e15e40c93b76492726a3e748fef2bcfe499dc388382a8997f1a",
+      "retrieved_at": "2026-09-27T11:04:13.733246+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_qfq_factor.csv",
+      "symbol": "600436",
+      "interface": "stock_zh_a_daily",
+      "parameters": {
+        "symbol": "sh600436",
+        "adjust": "qfq-factor"
+      },
+      "rows": 29,
+      "sha256": "cb17cce683d86ea8f9e1ddbbbeeb3320d7093105b34359e63982506ea876867b",
+      "retrieved_at": "2026-09-27T11:04:13.907266+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_value.csv",
+      "symbol": "600436",
+      "interface": "stock_value_em",
+      "parameters": {
+        "symbol": "600436"
+      },
+      "rows": 2120,
+      "sha256": "5f367aad40695ad54e2cb300349cad21c1efa13d61b0e44e9427c15b1558707f",
+      "retrieved_at": "2026-09-27T10:54:15.221039+08:00",
+      "status": "ok"
+    },
+    {
+      "file": "600436_profile.csv",
+      "symbol": "600436",
+      "interface": "eastmoney_company_profile",
+      "parameters": {
+        "symbol": "600436"
+      },
+      "rows": 1,
+      "sha256": "365c30c73c24e88f7b38d401e45a280d5774ce01974eedf8cd00937628d12ed7",
+      "retrieved_at": "2026-09-27T10:54:15.460606+08:00",
+      "status": "ok"
+    }
+  ],
+  "source_docs": "https://akshare.akfamily.xyz/data/stock/stock.html",
+  "requested_start": "2021-01-01",
+  "requested_end": "2026-09-16",
+  "baseline": "2020-12-31"
+}

@@ -1,0 +1,15 @@
+{
+  "historical_industry_verified": false,
+  "historical_controller_verified": false,
+  "year_end_listing_verified": false,
+  "annual_consolidated_verified": false,
+  "bank_loan_definitions_verified": false,
+  "includes_delisted_firms": false,
+  "amount_unit": "CNY",
+  "retrieved_at": "",
+  "industry_mapping": "",
+  "ownership_mapping": "",
+  "report_version_rule": "",
+  "source_tables": [],
+  "files": {}
+}
